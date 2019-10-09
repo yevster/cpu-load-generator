@@ -1,3 +1,5 @@
+package com.github.pradykaushik.cpuloadgenerator;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 

@@ -1,3 +1,5 @@
+package com.github.pradykaushik.cpuloadgenerator;
+
 import java.util.Locale;
 import java.util.Random;
 

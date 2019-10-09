@@ -1,3 +1,5 @@
+package com.github.pradykaushik.cpuloadgenerator;
+
 /**
  * Generates Load on the CPU by keeping it busy for the given load percentage
  * @author Sriram

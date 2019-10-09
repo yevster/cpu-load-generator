@@ -1,3 +1,5 @@
+package com.github.pradykaushik.cpuloadgenerator;
+
 public class ProcessorArchInfo {
 	private int numCores;
 	private int numThreadsPerCore;

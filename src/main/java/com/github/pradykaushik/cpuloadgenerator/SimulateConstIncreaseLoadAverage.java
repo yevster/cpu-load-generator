@@ -1,3 +1,5 @@
+package com.github.pradykaushik.cpuloadgenerator;
+
 import java.util.concurrent.ExecutionException;
 
 public class SimulateConstIncreaseLoadAverage {
@@ -55,7 +57,6 @@ public class SimulateConstIncreaseLoadAverage {
 		}
 		
 		generateLoadAverage(startLoadAvgCore, stepSize);
-
 	}
 
 	// Increases 1min load average in a step wise manner till the given limit.
